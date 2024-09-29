@@ -2,7 +2,7 @@ import 'package:daycare/widgets/drawer_list_tile.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
-import 'core/app_colors.dart';
+import '../core/app_colors.dart';
 
 class SideNav extends StatelessWidget {
   const SideNav({
